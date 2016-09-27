@@ -17,7 +17,7 @@ class game{
          if (yesno == 1){
            System.out.println("Great welcome to Glynn Academy " + name + "!");
          }
-         if else (yesno == 2){
+         else if (yesno == 2){
            System.out.println("Please reenter your name: ");
          }
          
